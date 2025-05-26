@@ -1,17 +1,35 @@
+﻿using System;
+using System.Windows.Forms;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Hosting;
+using Microsoft.EntityFrameworkCore;
+using DAL;
+
 namespace QuanLySV
 {
     internal static class Program
     {
-        /// <summary>
-        ///  The main entry point for the application.
-        /// </summary>
         [STAThread]
         static void Main()
         {
-            // To customize application configuration such as set high DPI settings or default font,
-            // see https://aka.ms/applicationconfiguration.
+            var host = CreateHostBuilder().Build();
+
             ApplicationConfiguration.Initialize();
-            Application.Run(new Form1());
+
+            var form = host.Services.GetRequiredService<HomePage>();
+            Application.Run(form);
         }
+
+        static IHostBuilder CreateHostBuilder() =>
+            Host.CreateDefaultBuilder()
+                .ConfigureServices((context, services) =>
+                {
+                    // Đăng ký DbContext với connection string
+                    services.AddDbContext<AppDbContext>(options =>
+                        options.UseSqlServer("Data Source=NGUYENTRANQUANG;Initial Catalog=QuanLySV;Integrated Security=True;Trust Server Certificate=True"));
+
+                    // Đăng ký Form1 để có thể inject DbContext vào constructor
+                    services.AddTransient<HomePage>();
+                });
     }
 }
