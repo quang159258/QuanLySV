@@ -45,7 +45,9 @@ namespace QuanLySV.Views
                 {
                     CurrentUser.LoggedInUser = user;
                     var homePage = _serviceProvider.GetRequiredService<HomePage>();
+                    //Lấy user đang đăng nhập
                     var u = CurrentUser.LoggedInUser;
+                    //
                     this.Hide();
                     homePage.ShowDialog();
                     this.Show();
