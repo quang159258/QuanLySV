@@ -11,9 +11,9 @@ namespace DAL.Models
         public int Id { get; set; }
         public string TenLop { get; set; } = string.Empty;
         public int SiSo { get; set; }
-        public int SiSo { get; set; }
         public int GiaoVienId { get; set; }
         public GiaoVien GiaoVien { get; set; } = new GiaoVien();
-        
+        public ICollection<SinhVien> SinhViens { get; set; } = new List<SinhVien>();
+
     }
 }

@@ -10,5 +10,6 @@ namespace DAL.Models
     {
         public int Id { get; set; }
         public string TenHocKy { get; set; } = string.Empty;
+        public ICollection<MonHoc> MonHocs { get; set; } = new List<MonHoc>();
     }
 }

@@ -23,5 +23,6 @@ namespace DAL.Models
         public int SoLuongThamGia { get; set; } = 0;
         public LoaiHoatDong LoaiHoatDong { get; set; } = LoaiHoatDong.None;
         public int DiemCong { get; set; } = 0;
+        public ICollection<ThamGiaHoatDong> ThamGiaHoatDongs { get; set; } = new List<ThamGiaHoatDong>();
     }
 }

@@ -13,8 +13,10 @@ namespace DAL.Models
         public DateTime NgaySinh { get; set; }
         public string DiaChi { get; set; } = string.Empty;
         public string SoDienThoai { get; set; } = string.Empty;
-        public string SoDienThoai { get; set; } = string.Empty;
         public int LopId { get; set; }
         public Lop Lop { get; set; } = new Lop();
+        public ICollection<ThamGiaHoatDong> ThamGiaHoatDongs { get; set; } = new List<ThamGiaHoatDong>(); 
+        public ICollection<KetQua> KetQuas { get; set; } = new List<KetQua>();
+        public ICollection<YeuCau> YeuCaus { get; set; } = new List<YeuCau>();
     }
 }
