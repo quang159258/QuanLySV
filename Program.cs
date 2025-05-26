@@ -42,6 +42,7 @@ namespace QuanLySV
                     // Đăng ký Form để có thể DI vào constructor
                     services.AddTransient<LoginPage>();
                     services.AddTransient<HomePage>();
+                    services.AddScoped<IServiceProvider>(sp => sp);
                 });
     }
 }
