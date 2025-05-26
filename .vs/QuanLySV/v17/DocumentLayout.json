@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\WorkSpace\\QuanLySV\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{75AB7E4F-FEA3-4586-A288-6E2F7C98B97F}|QuanLySV.csproj|e:\\workspace\\quanlysv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75AB7E4F-FEA3-4586-A288-6E2F7C98B97F}|QuanLySV.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{048ED7E7-534D-4966-93EB-4B5DD78BA36B}|DAL\\DAL.csproj|e:\\workspace\\quanlysv\\dal\\models\\vaitro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{048ED7E7-534D-4966-93EB-4B5DD78BA36B}|DAL\\DAL.csproj|solutionrelative:dal\\models\\vaitro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -49,10 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{048ED7E7-534D-4966-93EB-4B5DD78BA36B}|DAL\\DAL.csproj|e:\\workspace\\quanlysv\\dal\\models\\giaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{048ED7E7-534D-4966-93EB-4B5DD78BA36B}|DAL\\DAL.csproj|solutionrelative:dal\\models\\giaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75AB7E4F-FEA3-4586-A288-6E2F7C98B97F}|QuanLySV.csproj|e:\\workspace\\quanlysv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75AB7E4F-FEA3-4586-A288-6E2F7C98B97F}|QuanLySV.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 223,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,72 +78,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ThamGiaHoatDong.cs",
-              "DocumentMoniker": "E:\\WorkSpace\\QuanLySV\\DAL\\Models\\ThamGiaHoatDong.cs",
-              "RelativeDocumentMoniker": "DAL\\Models\\ThamGiaHoatDong.cs",
-              "ToolTip": "E:\\WorkSpace\\QuanLySV\\DAL\\Models\\ThamGiaHoatDong.cs",
-              "RelativeToolTip": "DAL\\Models\\ThamGiaHoatDong.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T10:00:02.638Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Lop.cs",
-              "DocumentMoniker": "E:\\WorkSpace\\QuanLySV\\DAL\\Models\\Lop.cs",
-              "RelativeDocumentMoniker": "DAL\\Models\\Lop.cs",
-              "ToolTip": "E:\\WorkSpace\\QuanLySV\\DAL\\Models\\Lop.cs",
-              "RelativeToolTip": "DAL\\Models\\Lop.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T09:41:32.265Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MonHoc.cs",
-              "DocumentMoniker": "E:\\WorkSpace\\QuanLySV\\DAL\\Models\\MonHoc.cs",
-              "RelativeDocumentMoniker": "DAL\\Models\\MonHoc.cs",
-              "ToolTip": "E:\\WorkSpace\\QuanLySV\\DAL\\Models\\MonHoc.cs",
-              "RelativeToolTip": "DAL\\Models\\MonHoc.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAwA8AAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T09:42:22.75Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Quyen.cs",
-              "DocumentMoniker": "E:\\WorkSpace\\QuanLySV\\DAL\\Models\\Quyen.cs",
-              "RelativeDocumentMoniker": "DAL\\Models\\Quyen.cs",
-              "ToolTip": "E:\\WorkSpace\\QuanLySV\\DAL\\Models\\Quyen.cs",
-              "RelativeToolTip": "DAL\\Models\\Quyen.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T09:25:29.586Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SinhVien.cs",
-              "DocumentMoniker": "E:\\WorkSpace\\QuanLySV\\DAL\\Models\\SinhVien.cs",
-              "RelativeDocumentMoniker": "DAL\\Models\\SinhVien.cs",
-              "ToolTip": "E:\\WorkSpace\\QuanLySV\\DAL\\Models\\SinhVien.cs",
-              "RelativeToolTip": "DAL\\Models\\SinhVien.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAuwBEAAABqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T09:44:55.197Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "VaiTro.cs",
               "DocumentMoniker": "E:\\WorkSpace\\QuanLySV\\DAL\\Models\\VaiTro.cs",
               "RelativeDocumentMoniker": "DAL\\Models\\VaiTro.cs",
@@ -156,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "YeuCau.cs",
               "DocumentMoniker": "E:\\WorkSpace\\QuanLySV\\DAL\\Models\\YeuCau.cs",
               "RelativeDocumentMoniker": "DAL\\Models\\YeuCau.cs",
@@ -164,12 +99,11 @@
               "RelativeToolTip": "DAL\\Models\\YeuCau.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAxwBoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T09:53:23.976Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T09:53:23.976Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "E:\\WorkSpace\\QuanLySV\\DAL\\AppDbContext.cs",
               "RelativeDocumentMoniker": "DAL\\AppDbContext.cs",
@@ -177,12 +111,11 @@
               "RelativeToolTip": "DAL\\AppDbContext.cs",
               "ViewState": "AgIAAGYAAAAAAAAAAAAIwHwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T07:13:43.254Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T07:13:43.254Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "KetQua.cs",
               "DocumentMoniker": "E:\\WorkSpace\\QuanLySV\\DAL\\Models\\KetQua.cs",
               "RelativeDocumentMoniker": "DAL\\Models\\KetQua.cs",
@@ -190,12 +123,84 @@
               "RelativeToolTip": "DAL\\Models\\KetQua.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T09:51:10.09Z",
+              "WhenOpened": "2025-05-26T09:51:10.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\WorkSpace\\QuanLySV\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\WorkSpace\\QuanLySV\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwBMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T08:47:07.586Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
+              "Title": "SinhVien.cs",
+              "DocumentMoniker": "E:\\WorkSpace\\QuanLySV\\DAL\\Models\\SinhVien.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\SinhVien.cs",
+              "ToolTip": "E:\\WorkSpace\\QuanLySV\\DAL\\Models\\SinhVien.cs",
+              "RelativeToolTip": "DAL\\Models\\SinhVien.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwBEAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T09:44:55.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Quyen.cs",
+              "DocumentMoniker": "E:\\WorkSpace\\QuanLySV\\DAL\\Models\\Quyen.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Quyen.cs",
+              "ToolTip": "E:\\WorkSpace\\QuanLySV\\DAL\\Models\\Quyen.cs",
+              "RelativeToolTip": "DAL\\Models\\Quyen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T09:25:29.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MonHoc.cs",
+              "DocumentMoniker": "E:\\WorkSpace\\QuanLySV\\DAL\\Models\\MonHoc.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\MonHoc.cs",
+              "ToolTip": "E:\\WorkSpace\\QuanLySV\\DAL\\Models\\MonHoc.cs",
+              "RelativeToolTip": "DAL\\Models\\MonHoc.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwA8AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T09:42:22.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Lop.cs",
+              "DocumentMoniker": "E:\\WorkSpace\\QuanLySV\\DAL\\Models\\Lop.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Lop.cs",
+              "ToolTip": "E:\\WorkSpace\\QuanLySV\\DAL\\Models\\Lop.cs",
+              "RelativeToolTip": "DAL\\Models\\Lop.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T09:41:32.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ThamGiaHoatDong.cs",
+              "DocumentMoniker": "E:\\WorkSpace\\QuanLySV\\DAL\\Models\\ThamGiaHoatDong.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\ThamGiaHoatDong.cs",
+              "ToolTip": "E:\\WorkSpace\\QuanLySV\\DAL\\Models\\ThamGiaHoatDong.cs",
+              "RelativeToolTip": "DAL\\Models\\ThamGiaHoatDong.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T10:00:02.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "HocKy.cs",
               "DocumentMoniker": "E:\\WorkSpace\\QuanLySV\\DAL\\Models\\HocKy.cs",
               "RelativeDocumentMoniker": "DAL\\Models\\HocKy.cs",
@@ -203,12 +208,11 @@
               "RelativeToolTip": "DAL\\Models\\HocKy.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T09:40:44.468Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T09:40:44.468Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "HoatDong.cs",
               "DocumentMoniker": "E:\\WorkSpace\\QuanLySV\\DAL\\Models\\HoatDong.cs",
               "RelativeDocumentMoniker": "DAL\\Models\\HoatDong.cs",
@@ -216,12 +220,11 @@
               "RelativeToolTip": "DAL\\Models\\HoatDong.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAxwBkAAABpAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T09:57:18.463Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T09:57:18.463Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "GiaoVien.cs",
               "DocumentMoniker": "E:\\WorkSpace\\QuanLySV\\DAL\\Models\\GiaoVien.cs",
               "RelativeDocumentMoniker": "DAL\\Models\\GiaoVien.cs",
@@ -229,20 +232,7 @@
               "RelativeToolTip": "DAL\\Models\\GiaoVien.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T10:02:10.143Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\WorkSpace\\QuanLySV\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\WorkSpace\\QuanLySV\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAwwCMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T08:47:07.586Z"
+              "WhenOpened": "2025-05-26T10:02:10.143Z"
             }
           ]
         }

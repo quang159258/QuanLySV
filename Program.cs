@@ -14,6 +14,12 @@ namespace QuanLySV
         {
             var host = CreateHostBuilder().Build();
 
+            using (var scope = host.Services.CreateScope())
+            {
+                var context = scope.ServiceProvider.GetRequiredService<AppDbContext>();
+                context.Database.EnsureCreated();
+            }
+
             ApplicationConfiguration.Initialize();
 
             var form = host.Services.GetRequiredService<HomePage>();
