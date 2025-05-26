@@ -7,7 +7,7 @@ namespace BLL.Repositories
     public class Repository<T> : IRepository<T> where T : class
     {
         protected readonly AppDbContext _db;
-        internal DbSet<T> dbSet; // Tham chiếu tới tập class T
+        internal DbSet<T> dbSet; 
 
         public Repository(AppDbContext db)
         {

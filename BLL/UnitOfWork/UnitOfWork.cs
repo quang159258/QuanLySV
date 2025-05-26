@@ -13,32 +13,32 @@ namespace BLL.UnitOfWork
     {
         private readonly AppDbContext _db;
 
-        public IRepository<GiaoVien> GiaoViens { get;  }
-        public IRepository<HoatDong> HoatDongs { get;  }
-        public IRepository<HocKy> HocKys { get;  }
-        public IRepository<KetQua> KetQuas { get;  }
-        public IRepository<Lop> Lops { get;  }
-        public IRepository<MonHoc> MonHocs { get;  }
-        public IRepository<Quyen> Quyens { get;  }
-        public IRepository<SinhVien> SinhViens { get;  }
-        public IRepository<ThamGiaHoatDong> ThamGiaHoatDongs { get;  }
-        public IRepository<VaiTro> VaiTros { get;  }
-        public IRepository<YeuCau> YeuCaus { get;  }
+        public GiaoVienRepository GiaoViens { get; private set; }
+        public HoatDongRepository HoatDongs { get; private set; }
+        public HocKyRepository HocKys { get; private set; }
+        public KetQuaRepository KetQuas { get; private set; }
+        public LopRepository Lops { get; private set; }
+        public MonHocRepository MonHocs { get; private set; }
+        public QuyenRepository Quyens { get; private set; }
+        public SinhVienRepository SinhViens { get; private set; }
+        public ThamGiaHoatDongRepository ThamGiaHoatDongs { get; private set; }
+        public VaiTroRepository VaiTros { get; private set; }
+        public YeuCauRepository YeuCaus { get; private set; }
 
         public UnitOfWork(AppDbContext db)
         {
             _db = db;
-            GiaoViens = new Repository<GiaoVien>(_db);
-            HoatDongs = new Repository<HoatDong>(_db);
-            HocKys = new Repository<HocKy>(_db);
-            KetQuas = new Repository<KetQua>(_db);
-            Lops = new Repository<Lop>(_db);
-            MonHocs = new Repository<MonHoc>(_db);
-            Quyens = new Repository<Quyen>(_db);
-            SinhViens = new Repository<SinhVien>(_db);
-            ThamGiaHoatDongs = new Repository<ThamGiaHoatDong>(_db);
-            VaiTros = new Repository<VaiTro>(_db);
-            YeuCaus = new Repository<YeuCau>(_db);
+            GiaoViens = new GiaoVienRepository(_db);
+            HoatDongs = new HoatDongRepository(_db);
+            HocKys = new HocKyRepository(_db);
+            KetQuas = new KetQuaRepository(_db);
+            Lops = new LopRepository(_db);
+            MonHocs = new MonHocRepository(_db);
+            Quyens = new QuyenRepository(_db);
+            SinhViens = new SinhVienRepository(_db);
+            ThamGiaHoatDongs = new ThamGiaHoatDongRepository(_db);
+            VaiTros = new VaiTroRepository(_db);
+            YeuCaus = new YeuCauRepository(_db);
         }
 
         public async Task<int> Complete()

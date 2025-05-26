@@ -3,16 +3,60 @@
   "WorkspaceRootPath": "E:\\WorkSpace\\QuanLySV\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{75AB7E4F-FEA3-4586-A288-6E2F7C98B97F}|QuanLySV.csproj|e:\\workspace\\quanlysv\\views\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75AB7E4F-FEA3-4586-A288-6E2F7C98B97F}|QuanLySV.csproj|solutionrelative:views\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{437FB4AC-E2F1-4BDF-9F19-EC24D67CD55C}|BLL\\BLL.csproj|e:\\workspace\\quanlysv\\bll\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437FB4AC-E2F1-4BDF-9F19-EC24D67CD55C}|BLL\\BLL.csproj|solutionrelative:bll\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75AB7E4F-FEA3-4586-A288-6E2F7C98B97F}|QuanLySV.csproj|e:\\workspace\\quanlysv\\views\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{437FB4AC-E2F1-4BDF-9F19-EC24D67CD55C}|BLL\\BLL.csproj|e:\\workspace\\quanlysv\\bll\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437FB4AC-E2F1-4BDF-9F19-EC24D67CD55C}|BLL\\BLL.csproj|solutionrelative:bll\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437FB4AC-E2F1-4BDF-9F19-EC24D67CD55C}|BLL\\BLL.csproj|e:\\workspace\\quanlysv\\bll\\repositories\\yeucaurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437FB4AC-E2F1-4BDF-9F19-EC24D67CD55C}|BLL\\BLL.csproj|solutionrelative:bll\\repositories\\yeucaurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437FB4AC-E2F1-4BDF-9F19-EC24D67CD55C}|BLL\\BLL.csproj|e:\\workspace\\quanlysv\\bll\\repositories\\vaitrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437FB4AC-E2F1-4BDF-9F19-EC24D67CD55C}|BLL\\BLL.csproj|solutionrelative:bll\\repositories\\vaitrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437FB4AC-E2F1-4BDF-9F19-EC24D67CD55C}|BLL\\BLL.csproj|e:\\workspace\\quanlysv\\bll\\repositories\\thamgiahoatdongrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437FB4AC-E2F1-4BDF-9F19-EC24D67CD55C}|BLL\\BLL.csproj|solutionrelative:bll\\repositories\\thamgiahoatdongrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437FB4AC-E2F1-4BDF-9F19-EC24D67CD55C}|BLL\\BLL.csproj|e:\\workspace\\quanlysv\\bll\\repositories\\sinhvienrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437FB4AC-E2F1-4BDF-9F19-EC24D67CD55C}|BLL\\BLL.csproj|solutionrelative:bll\\repositories\\sinhvienrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437FB4AC-E2F1-4BDF-9F19-EC24D67CD55C}|BLL\\BLL.csproj|e:\\workspace\\quanlysv\\bll\\repositories\\quyenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437FB4AC-E2F1-4BDF-9F19-EC24D67CD55C}|BLL\\BLL.csproj|solutionrelative:bll\\repositories\\quyenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437FB4AC-E2F1-4BDF-9F19-EC24D67CD55C}|BLL\\BLL.csproj|e:\\workspace\\quanlysv\\bll\\repositories\\monhocrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437FB4AC-E2F1-4BDF-9F19-EC24D67CD55C}|BLL\\BLL.csproj|solutionrelative:bll\\repositories\\monhocrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437FB4AC-E2F1-4BDF-9F19-EC24D67CD55C}|BLL\\BLL.csproj|e:\\workspace\\quanlysv\\bll\\repositories\\loprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437FB4AC-E2F1-4BDF-9F19-EC24D67CD55C}|BLL\\BLL.csproj|solutionrelative:bll\\repositories\\loprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437FB4AC-E2F1-4BDF-9F19-EC24D67CD55C}|BLL\\BLL.csproj|e:\\workspace\\quanlysv\\bll\\repositories\\ketquarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437FB4AC-E2F1-4BDF-9F19-EC24D67CD55C}|BLL\\BLL.csproj|solutionrelative:bll\\repositories\\ketquarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437FB4AC-E2F1-4BDF-9F19-EC24D67CD55C}|BLL\\BLL.csproj|e:\\workspace\\quanlysv\\bll\\repositories\\hockyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437FB4AC-E2F1-4BDF-9F19-EC24D67CD55C}|BLL\\BLL.csproj|solutionrelative:bll\\repositories\\hockyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437FB4AC-E2F1-4BDF-9F19-EC24D67CD55C}|BLL\\BLL.csproj|e:\\workspace\\quanlysv\\bll\\repositories\\hoatdongrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437FB4AC-E2F1-4BDF-9F19-EC24D67CD55C}|BLL\\BLL.csproj|solutionrelative:bll\\repositories\\hoatdongrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048ED7E7-534D-4966-93EB-4B5DD78BA36B}|DAL\\DAL.csproj|e:\\workspace\\quanlysv\\dal\\models\\giaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048ED7E7-534D-4966-93EB-4B5DD78BA36B}|DAL\\DAL.csproj|solutionrelative:dal\\models\\giaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75AB7E4F-FEA3-4586-A288-6E2F7C98B97F}|QuanLySV.csproj|E:\\WorkSpace\\QuanLySV\\views\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{75AB7E4F-FEA3-4586-A288-6E2F7C98B97F}|QuanLySV.csproj|solutionrelative:views\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75AB7E4F-FEA3-4586-A288-6E2F7C98B97F}|QuanLySV.csproj|e:\\workspace\\quanlysv\\views\\homepage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75AB7E4F-FEA3-4586-A288-6E2F7C98B97F}|QuanLySV.csproj|solutionrelative:views\\homepage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{75AB7E4F-FEA3-4586-A288-6E2F7C98B97F}|QuanLySV.csproj|e:\\workspace\\quanlysv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,18 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{437FB4AC-E2F1-4BDF-9F19-EC24D67CD55C}|BLL\\BLL.csproj|e:\\workspace\\quanlysv\\bll\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{437FB4AC-E2F1-4BDF-9F19-EC24D67CD55C}|BLL\\BLL.csproj|solutionrelative:bll\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{437FB4AC-E2F1-4BDF-9F19-EC24D67CD55C}|BLL\\BLL.csproj|e:\\workspace\\quanlysv\\bll\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{437FB4AC-E2F1-4BDF-9F19-EC24D67CD55C}|BLL\\BLL.csproj|solutionrelative:bll\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{437FB4AC-E2F1-4BDF-9F19-EC24D67CD55C}|BLL\\BLL.csproj|e:\\workspace\\quanlysv\\bll\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{437FB4AC-E2F1-4BDF-9F19-EC24D67CD55C}|BLL\\BLL.csproj|solutionrelative:bll\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{437FB4AC-E2F1-4BDF-9F19-EC24D67CD55C}|BLL\\BLL.csproj|e:\\workspace\\quanlysv\\bll\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{437FB4AC-E2F1-4BDF-9F19-EC24D67CD55C}|BLL\\BLL.csproj|solutionrelative:bll\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{048ED7E7-534D-4966-93EB-4B5DD78BA36B}|DAL\\DAL.csproj|e:\\workspace\\quanlysv\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,10 +87,6 @@
       "RelativeMoniker": "D:0:0:{048ED7E7-534D-4966-93EB-4B5DD78BA36B}|DAL\\DAL.csproj|solutionrelative:dal\\models\\lop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{048ED7E7-534D-4966-93EB-4B5DD78BA36B}|DAL\\DAL.csproj|e:\\workspace\\quanlysv\\dal\\models\\yeucau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{048ED7E7-534D-4966-93EB-4B5DD78BA36B}|DAL\\DAL.csproj|solutionrelative:dal\\models\\yeucau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{048ED7E7-534D-4966-93EB-4B5DD78BA36B}|DAL\\DAL.csproj|e:\\workspace\\quanlysv\\dal\\models\\thamgiahoatdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{048ED7E7-534D-4966-93EB-4B5DD78BA36B}|DAL\\DAL.csproj|solutionrelative:dal\\models\\thamgiahoatdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -77,10 +105,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{048ED7E7-534D-4966-93EB-4B5DD78BA36B}|DAL\\DAL.csproj|e:\\workspace\\quanlysv\\dal\\models\\hoatdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{048ED7E7-534D-4966-93EB-4B5DD78BA36B}|DAL\\DAL.csproj|solutionrelative:dal\\models\\hoatdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{048ED7E7-534D-4966-93EB-4B5DD78BA36B}|DAL\\DAL.csproj|e:\\workspace\\quanlysv\\dal\\models\\giaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{048ED7E7-534D-4966-93EB-4B5DD78BA36B}|DAL\\DAL.csproj|solutionrelative:dal\\models\\giaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -90,7 +114,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 223,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -106,20 +130,176 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HomePage.cs",
-              "DocumentMoniker": "E:\\WorkSpace\\QuanLySV\\Views\\HomePage.cs",
-              "RelativeDocumentMoniker": "Views\\HomePage.cs",
-              "ToolTip": "E:\\WorkSpace\\QuanLySV\\Views\\HomePage.cs",
-              "RelativeToolTip": "Views\\HomePage.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAD4vxMAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "YeuCauRepository.cs",
+              "DocumentMoniker": "E:\\WorkSpace\\QuanLySV\\BLL\\Repositories\\YeuCauRepository.cs",
+              "RelativeDocumentMoniker": "BLL\\Repositories\\YeuCauRepository.cs",
+              "ToolTip": "E:\\WorkSpace\\QuanLySV\\BLL\\Repositories\\YeuCauRepository.cs",
+              "RelativeToolTip": "BLL\\Repositories\\YeuCauRepository.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAUwDQAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T12:23:59.271Z",
+              "WhenOpened": "2025-05-26T13:39:06.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VaiTroRepository.cs",
+              "DocumentMoniker": "E:\\WorkSpace\\QuanLySV\\BLL\\Repositories\\VaiTroRepository.cs",
+              "RelativeDocumentMoniker": "BLL\\Repositories\\VaiTroRepository.cs",
+              "ToolTip": "E:\\WorkSpace\\QuanLySV\\BLL\\Repositories\\VaiTroRepository.cs",
+              "RelativeToolTip": "BLL\\Repositories\\VaiTroRepository.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAUwDQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T13:38:31.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ThamGiaHoatDongRepository.cs",
+              "DocumentMoniker": "E:\\WorkSpace\\QuanLySV\\BLL\\Repositories\\ThamGiaHoatDongRepository.cs",
+              "RelativeDocumentMoniker": "BLL\\Repositories\\ThamGiaHoatDongRepository.cs",
+              "ToolTip": "E:\\WorkSpace\\QuanLySV\\BLL\\Repositories\\ThamGiaHoatDongRepository.cs",
+              "RelativeToolTip": "BLL\\Repositories\\ThamGiaHoatDongRepository.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAUwDQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T13:38:04.37Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "E:\\WorkSpace\\QuanLySV\\BLL\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "BLL\\UnitOfWork\\IUnitOfWork.cs",
+              "ToolTip": "E:\\WorkSpace\\QuanLySV\\BLL\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeToolTip": "BLL\\UnitOfWork\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA7wBcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T11:52:08.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "E:\\WorkSpace\\QuanLySV\\BLL\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "BLL\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "E:\\WorkSpace\\QuanLySV\\BLL\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "BLL\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwCsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T12:06:13.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SinhVienRepository.cs",
+              "DocumentMoniker": "E:\\WorkSpace\\QuanLySV\\BLL\\Repositories\\SinhVienRepository.cs",
+              "RelativeDocumentMoniker": "BLL\\Repositories\\SinhVienRepository.cs",
+              "ToolTip": "E:\\WorkSpace\\QuanLySV\\BLL\\Repositories\\SinhVienRepository.cs",
+              "RelativeToolTip": "BLL\\Repositories\\SinhVienRepository.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAUwDAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T13:37:34.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QuyenRepository.cs",
+              "DocumentMoniker": "E:\\WorkSpace\\QuanLySV\\BLL\\Repositories\\QuyenRepository.cs",
+              "RelativeDocumentMoniker": "BLL\\Repositories\\QuyenRepository.cs",
+              "ToolTip": "E:\\WorkSpace\\QuanLySV\\BLL\\Repositories\\QuyenRepository.cs",
+              "RelativeToolTip": "BLL\\Repositories\\QuyenRepository.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAUwDQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T13:36:49.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MonHocRepository.cs",
+              "DocumentMoniker": "E:\\WorkSpace\\QuanLySV\\BLL\\Repositories\\MonHocRepository.cs",
+              "RelativeDocumentMoniker": "BLL\\Repositories\\MonHocRepository.cs",
+              "ToolTip": "E:\\WorkSpace\\QuanLySV\\BLL\\Repositories\\MonHocRepository.cs",
+              "RelativeToolTip": "BLL\\Repositories\\MonHocRepository.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAUwDAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T13:36:13.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LopRepository.cs",
+              "DocumentMoniker": "E:\\WorkSpace\\QuanLySV\\BLL\\Repositories\\LopRepository.cs",
+              "RelativeDocumentMoniker": "BLL\\Repositories\\LopRepository.cs",
+              "ToolTip": "E:\\WorkSpace\\QuanLySV\\BLL\\Repositories\\LopRepository.cs",
+              "RelativeToolTip": "BLL\\Repositories\\LopRepository.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAUwDAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T13:35:40.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "KetQuaRepository.cs",
+              "DocumentMoniker": "E:\\WorkSpace\\QuanLySV\\BLL\\Repositories\\KetQuaRepository.cs",
+              "RelativeDocumentMoniker": "BLL\\Repositories\\KetQuaRepository.cs",
+              "ToolTip": "E:\\WorkSpace\\QuanLySV\\BLL\\Repositories\\KetQuaRepository.cs",
+              "RelativeToolTip": "BLL\\Repositories\\KetQuaRepository.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAowDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T13:29:12.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HocKyRepository.cs",
+              "DocumentMoniker": "E:\\WorkSpace\\QuanLySV\\BLL\\Repositories\\HocKyRepository.cs",
+              "RelativeDocumentMoniker": "BLL\\Repositories\\HocKyRepository.cs",
+              "ToolTip": "E:\\WorkSpace\\QuanLySV\\BLL\\Repositories\\HocKyRepository.cs",
+              "RelativeToolTip": "BLL\\Repositories\\HocKyRepository.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAowDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T13:12:44.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HoatDongRepository.cs",
+              "DocumentMoniker": "E:\\WorkSpace\\QuanLySV\\BLL\\Repositories\\HoatDongRepository.cs",
+              "RelativeDocumentMoniker": "BLL\\Repositories\\HoatDongRepository.cs",
+              "ToolTip": "E:\\WorkSpace\\QuanLySV\\BLL\\Repositories\\HoatDongRepository.cs",
+              "RelativeToolTip": "BLL\\Repositories\\HoatDongRepository.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAowDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T13:10:44.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GiaoVien.cs",
+              "DocumentMoniker": "E:\\WorkSpace\\QuanLySV\\DAL\\Models\\GiaoVien.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\GiaoVien.cs",
+              "ToolTip": "E:\\WorkSpace\\QuanLySV\\DAL\\Models\\GiaoVien.cs",
+              "RelativeToolTip": "DAL\\Models\\GiaoVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T10:02:10.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "HomePage.cs [Design]",
               "DocumentMoniker": "E:\\WorkSpace\\QuanLySV\\Views\\HomePage.cs",
               "RelativeDocumentMoniker": "Views\\HomePage.cs",
@@ -131,72 +311,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HomePage.Designer.cs",
-              "DocumentMoniker": "E:\\WorkSpace\\QuanLySV\\Views\\HomePage.Designer.cs",
-              "RelativeDocumentMoniker": "Views\\HomePage.Designer.cs",
-              "ToolTip": "E:\\WorkSpace\\QuanLySV\\Views\\HomePage.Designer.cs",
-              "RelativeToolTip": "Views\\HomePage.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T12:23:29.472Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "E:\\WorkSpace\\QuanLySV\\BLL\\UnitOfWork\\UnitOfWork.cs",
-              "RelativeDocumentMoniker": "BLL\\UnitOfWork\\UnitOfWork.cs",
-              "ToolTip": "E:\\WorkSpace\\QuanLySV\\BLL\\UnitOfWork\\UnitOfWork.cs",
-              "RelativeToolTip": "BLL\\UnitOfWork\\UnitOfWork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T12:06:13.62Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "E:\\WorkSpace\\QuanLySV\\BLL\\Repositories\\Repository.cs",
-              "RelativeDocumentMoniker": "BLL\\Repositories\\Repository.cs",
-              "ToolTip": "E:\\WorkSpace\\QuanLySV\\BLL\\Repositories\\Repository.cs",
-              "RelativeToolTip": "BLL\\Repositories\\Repository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T12:00:26.554Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IUnitOfWork.cs",
-              "DocumentMoniker": "E:\\WorkSpace\\QuanLySV\\BLL\\UnitOfWork\\IUnitOfWork.cs",
-              "RelativeDocumentMoniker": "BLL\\UnitOfWork\\IUnitOfWork.cs",
-              "ToolTip": "E:\\WorkSpace\\QuanLySV\\BLL\\UnitOfWork\\IUnitOfWork.cs",
-              "RelativeToolTip": "BLL\\UnitOfWork\\IUnitOfWork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T11:52:08.097Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 15,
               "Title": "IRepository.cs",
               "DocumentMoniker": "E:\\WorkSpace\\QuanLySV\\BLL\\Repositories\\IRepository.cs",
               "RelativeDocumentMoniker": "BLL\\Repositories\\IRepository.cs",
               "ToolTip": "E:\\WorkSpace\\QuanLySV\\BLL\\Repositories\\IRepository.cs",
               "RelativeToolTip": "BLL\\Repositories\\IRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-26T11:49:20.898Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 16,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "E:\\WorkSpace\\QuanLySV\\DAL\\AppDbContext.cs",
               "RelativeDocumentMoniker": "DAL\\AppDbContext.cs",
@@ -209,19 +337,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 23,
               "Title": "KetQua.cs",
               "DocumentMoniker": "E:\\WorkSpace\\QuanLySV\\DAL\\Models\\KetQua.cs",
               "RelativeDocumentMoniker": "DAL\\Models\\KetQua.cs",
               "ToolTip": "E:\\WorkSpace\\QuanLySV\\DAL\\Models\\KetQua.cs",
               "RelativeToolTip": "DAL\\Models\\KetQua.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBQwBIAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T09:51:10.09Z"
+              "WhenOpened": "2025-05-26T09:51:10.09Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\WorkSpace\\QuanLySV\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -234,19 +363,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "YeuCau.cs",
-              "DocumentMoniker": "E:\\WorkSpace\\QuanLySV\\DAL\\Models\\YeuCau.cs",
-              "RelativeDocumentMoniker": "DAL\\Models\\YeuCau.cs",
-              "ToolTip": "E:\\WorkSpace\\QuanLySV\\DAL\\Models\\YeuCau.cs",
-              "RelativeToolTip": "DAL\\Models\\YeuCau.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAxwBoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T09:53:23.976Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
               "Title": "VaiTro.cs",
               "DocumentMoniker": "E:\\WorkSpace\\QuanLySV\\DAL\\Models\\VaiTro.cs",
               "RelativeDocumentMoniker": "DAL\\Models\\VaiTro.cs",
@@ -254,11 +371,12 @@
               "RelativeToolTip": "DAL\\Models\\VaiTro.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T09:22:55.214Z"
+              "WhenOpened": "2025-05-26T09:22:55.214Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
               "Title": "SinhVien.cs",
               "DocumentMoniker": "E:\\WorkSpace\\QuanLySV\\DAL\\Models\\SinhVien.cs",
               "RelativeDocumentMoniker": "DAL\\Models\\SinhVien.cs",
@@ -266,11 +384,12 @@
               "RelativeToolTip": "DAL\\Models\\SinhVien.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAuwBEAAABqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T09:44:55.197Z"
+              "WhenOpened": "2025-05-26T09:44:55.197Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
               "Title": "Quyen.cs",
               "DocumentMoniker": "E:\\WorkSpace\\QuanLySV\\DAL\\Models\\Quyen.cs",
               "RelativeDocumentMoniker": "DAL\\Models\\Quyen.cs",
@@ -278,11 +397,12 @@
               "RelativeToolTip": "DAL\\Models\\Quyen.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T09:25:29.586Z"
+              "WhenOpened": "2025-05-26T09:25:29.586Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 22,
               "Title": "MonHoc.cs",
               "DocumentMoniker": "E:\\WorkSpace\\QuanLySV\\DAL\\Models\\MonHoc.cs",
               "RelativeDocumentMoniker": "DAL\\Models\\MonHoc.cs",
@@ -290,35 +410,38 @@
               "RelativeToolTip": "DAL\\Models\\MonHoc.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAwA8AAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T09:42:22.75Z"
+              "WhenOpened": "2025-05-26T09:42:22.75Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 20,
               "Title": "Lop.cs",
               "DocumentMoniker": "E:\\WorkSpace\\QuanLySV\\DAL\\Models\\Lop.cs",
               "RelativeDocumentMoniker": "DAL\\Models\\Lop.cs",
               "ToolTip": "E:\\WorkSpace\\QuanLySV\\DAL\\Models\\Lop.cs",
               "RelativeToolTip": "DAL\\Models\\Lop.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAIBJwA0AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T09:41:32.265Z"
+              "WhenOpened": "2025-05-26T09:41:32.265Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 21,
               "Title": "ThamGiaHoatDong.cs",
               "DocumentMoniker": "E:\\WorkSpace\\QuanLySV\\DAL\\Models\\ThamGiaHoatDong.cs",
               "RelativeDocumentMoniker": "DAL\\Models\\ThamGiaHoatDong.cs",
               "ToolTip": "E:\\WorkSpace\\QuanLySV\\DAL\\Models\\ThamGiaHoatDong.cs",
               "RelativeToolTip": "DAL\\Models\\ThamGiaHoatDong.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBQAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T10:00:02.638Z"
+              "WhenOpened": "2025-05-26T10:00:02.638Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 24,
               "Title": "HocKy.cs",
               "DocumentMoniker": "E:\\WorkSpace\\QuanLySV\\DAL\\Models\\HocKy.cs",
               "RelativeDocumentMoniker": "DAL\\Models\\HocKy.cs",
@@ -326,11 +449,12 @@
               "RelativeToolTip": "DAL\\Models\\HocKy.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T09:40:44.468Z"
+              "WhenOpened": "2025-05-26T09:40:44.468Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 25,
               "Title": "HoatDong.cs",
               "DocumentMoniker": "E:\\WorkSpace\\QuanLySV\\DAL\\Models\\HoatDong.cs",
               "RelativeDocumentMoniker": "DAL\\Models\\HoatDong.cs",
@@ -338,19 +462,8 @@
               "RelativeToolTip": "DAL\\Models\\HoatDong.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAxwBkAAABpAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T09:57:18.463Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "GiaoVien.cs",
-              "DocumentMoniker": "E:\\WorkSpace\\QuanLySV\\DAL\\Models\\GiaoVien.cs",
-              "RelativeDocumentMoniker": "DAL\\Models\\GiaoVien.cs",
-              "ToolTip": "E:\\WorkSpace\\QuanLySV\\DAL\\Models\\GiaoVien.cs",
-              "RelativeToolTip": "DAL\\Models\\GiaoVien.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T10:02:10.143Z"
+              "WhenOpened": "2025-05-26T09:57:18.463Z",
+              "EditorCaption": ""
             }
           ]
         }

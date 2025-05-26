@@ -11,17 +11,17 @@ namespace BLL.UnitOfWork
     public interface IUnitOfWork
     {
 
-        IRepository<GiaoVien> GiaoViens { get;  }
-        IRepository<HoatDong> HoatDongs { get;  }
-        IRepository<HocKy> HocKys { get;  }
-        IRepository<KetQua> KetQuas { get;  }
-        IRepository<Lop> Lops { get;  }
-        IRepository<MonHoc> MonHocs { get;  }
-        IRepository<Quyen> Quyens { get;  }
-        IRepository<SinhVien> SinhViens { get;  }
-        IRepository<ThamGiaHoatDong> ThamGiaHoatDongs { get;  }
-        IRepository<VaiTro> VaiTros { get;  }
-        IRepository<YeuCau> YeuCaus { get;  }
+        GiaoVienRepository GiaoViens { get;  }
+        HoatDongRepository HoatDongs { get;  }
+        HocKyRepository HocKys { get;  }
+        KetQuaRepository KetQuas { get;  }
+        LopRepository Lops { get;  }
+        MonHocRepository MonHocs { get;  }
+        QuyenRepository Quyens { get;  }
+        SinhVienRepository SinhViens { get;  }
+        ThamGiaHoatDongRepository ThamGiaHoatDongs { get;  }
+        VaiTroRepository VaiTros { get;  }
+        YeuCauRepository YeuCaus { get;  }
         Task<int> Complete();
     }
 }
