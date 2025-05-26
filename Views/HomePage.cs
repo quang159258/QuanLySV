@@ -1,14 +1,21 @@
+using BLL.UnitOfWork;
 using DAL;
 
 namespace QuanLySV
 {
     public partial class HomePage : Form
     {
-        private readonly AppDbContext _context;
-        public HomePage(AppDbContext context)
+        private readonly IUnitOfWork _unitOfWork;
+
+        public HomePage(IUnitOfWork unitOfWork)
         {
             InitializeComponent();
-            _context = context;
+            _unitOfWork = unitOfWork;
+        }
+
+        private void HomePage_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -4,6 +4,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.EntityFrameworkCore;
 using DAL;
+using BLL.UnitOfWork;
 
 namespace QuanLySV
 {
@@ -33,7 +34,7 @@ namespace QuanLySV
                     // Đăng ký DbContext với connection string
                     services.AddDbContext<AppDbContext>(options =>
                         options.UseSqlServer("Data Source=NGUYENTRANQUANG;Initial Catalog=QuanLySV;Integrated Security=True;Trust Server Certificate=True"));
-
+                    services.AddScoped<IUnitOfWork, UnitOfWork>();
                     // Đăng ký Form1 để có thể inject DbContext vào constructor
                     services.AddTransient<HomePage>();
                 });
