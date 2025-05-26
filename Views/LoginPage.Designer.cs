@@ -28,12 +28,45 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "LoginPage";
+            label1 = new Label();
+            label2 = new Label();
+            SuspendLayout();
+            // 
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.Location = new Point(51, 75);
+            label1.Name = "label1";
+            label1.Size = new Size(112, 20);
+            label1.TabIndex = 0;
+            label1.Text = "Ten Dang Nhap";
+            // 
+            // label2
+            // 
+            label2.AutoSize = true;
+            label2.Location = new Point(51, 115);
+            label2.Name = "label2";
+            label2.Size = new Size(72, 20);
+            label2.TabIndex = 1;
+            label2.Text = "Mat Khau";
+            // 
+            // LoginPage
+            // 
+            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(446, 450);
+            Controls.Add(label2);
+            Controls.Add(label1);
+            Name = "LoginPage";
+            Text = "Dang Nhap";
+            Load += LoginPage_Load;
+            ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
+
+        private Label label1;
+        private Label label2;
     }
 }

@@ -5,54 +5,11 @@ using Microsoft.EntityFrameworkCore;
 
 namespace BLL.Repositories
 {
-    public class KetQuaRepository
+    public class KetQuaRepository:Repository<KetQua>
     {
-        protected readonly AppDbContext _db;
-        internal DbSet<KetQua> dbSet;
-        public KetQuaRepository(AppDbContext db)
+        public KetQuaRepository(AppDbContext db):base(db)
         {
-            _db = db;
-            dbSet = _db.Set<KetQua>();
         }
-
-        public async Task AddAsync(KetQua entity)
-        {
-            await dbSet.AddAsync(entity);
-        }
-
-        public async Task AddRangeAsync(IEnumerable<KetQua> entities)
-        {
-            await dbSet.AddRangeAsync(entities);
-        }
-
-        public IEnumerable<KetQua> Find(Expression<Func<KetQua, bool>> expression)
-        {
-            return dbSet.Where(expression).AsNoTracking();
-        }
-
-        public async Task<IEnumerable<KetQua>> GetAllAsync()
-        {
-            return await dbSet.AsNoTracking().ToListAsync();
-        }
-
-        public async Task<KetQua> GetByIdAsync(int id)
-        {
-            return await dbSet.FindAsync(id);
-        }
-
-        public void Remove(KetQua entity)
-        {
-            dbSet.Remove(entity);
-        }
-
-        public void RemoveRange(IEnumerable<KetQua> entities)
-        {
-            dbSet.RemoveRange(entities);
-        }
-
-        public void Update(KetQua entity)
-        {
-            dbSet.Update(entity);
-        }
+        
     }
 }

@@ -5,6 +5,8 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.EntityFrameworkCore;
 using DAL;
 using BLL.UnitOfWork;
+using BLL.Services;
+using QuanLySV.Views;
 
 namespace QuanLySV
 {
@@ -23,8 +25,8 @@ namespace QuanLySV
 
             ApplicationConfiguration.Initialize();
 
-            var form = host.Services.GetRequiredService<HomePage>();
-            Application.Run(form);
+            var login = host.Services.GetRequiredService<LoginPage>();
+            Application.Run(login);
         }
 
         static IHostBuilder CreateHostBuilder() =>
@@ -34,8 +36,11 @@ namespace QuanLySV
                     // Đăng ký DbContext với connection string
                     services.AddDbContext<AppDbContext>(options =>
                         options.UseSqlServer("Data Source=NGUYENTRANQUANG;Initial Catalog=QuanLySV;Integrated Security=True;Trust Server Certificate=True"));
+                    //Đăng ký unit of work và các services
                     services.AddScoped<IUnitOfWork, UnitOfWork>();
-                    // Đăng ký Form1 để có thể inject DbContext vào constructor
+                    services.AddScoped<AuthService>();
+                    // Đăng ký Form để có thể DI vào constructor
+                    services.AddTransient<LoginPage>();
                     services.AddTransient<HomePage>();
                 });
     }
