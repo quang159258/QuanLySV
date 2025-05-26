@@ -9,6 +9,15 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="BLL\**" />
+    <Compile Remove="DAL\**" />
+    <EmbeddedResource Remove="BLL\**" />
+    <EmbeddedResource Remove="DAL\**" />
+    <None Remove="BLL\**" />
+    <None Remove="DAL\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="BLL\BLL.csproj" />
   </ItemGroup>
 
