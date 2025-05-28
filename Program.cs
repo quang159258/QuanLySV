@@ -25,7 +25,7 @@ namespace QuanLySV
 
             ApplicationConfiguration.Initialize();
 
-            var login = host.Services.GetRequiredService<LoginPage>();
+            var login = host.Services.GetRequiredService<HomePage>();
             Application.Run(login);
         }
 
@@ -39,10 +39,11 @@ namespace QuanLySV
                     //Đăng ký unit of work và các services
                     services.AddScoped<IUnitOfWork, UnitOfWork>();
                     services.AddScoped<AuthService>();
+                    services.AddScoped<IServiceProvider>(sp => sp);
                     // Đăng ký Form để có thể DI vào constructor
                     services.AddTransient<LoginPage>();
                     services.AddTransient<HomePage>();
-                    services.AddScoped<IServiceProvider>(sp => sp);
+                    services.AddTransient<PhanQuyenPage>();
                 });
     }
 }

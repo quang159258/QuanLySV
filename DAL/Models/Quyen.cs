@@ -9,7 +9,7 @@ namespace DAL.Models
     public class Quyen
     {
         public int Id { get; set; }
-        public string Name { get; set; } = string.Empty;
+        public string TenQuyen { get; set; } = string.Empty;
         public ICollection<VaiTro> VaiTros { get; set; } = new List<VaiTro>();
     }
 }

@@ -7,11 +7,13 @@ using System.Threading.Tasks;
 using BLL.Repositories;
 using DAL.Models;
 using DAL;
+using Microsoft.EntityFrameworkCore.Storage;
 namespace BLL.UnitOfWork
 {
     public class UnitOfWork : IUnitOfWork
     {
         private readonly AppDbContext _db;
+        private IDbContextTransaction _transaction;
 
         public GiaoVienRepository GiaoViens { get; private set; }
         public HoatDongRepository HoatDongs { get; private set; }
@@ -44,6 +46,30 @@ namespace BLL.UnitOfWork
         public async Task<int> Complete()
         {
             return await _db.SaveChangesAsync();
+        }
+        public async Task<IDbContextTransaction> BeginTransactionAsync()
+        {
+            _transaction = await _db.Database.BeginTransactionAsync();
+            return _transaction;
+        }
+        public async Task CommitAsync()
+        {
+            if (_transaction != null)
+            {
+                await _transaction.CommitAsync();
+                await _transaction.DisposeAsync();
+                _transaction = null;
+            }
+        }
+
+        public async Task RollbackAsync()
+        {
+            if (_transaction != null)
+            {
+                await _transaction.RollbackAsync();
+                await _transaction.DisposeAsync();
+                _transaction = null;
+            }
         }
 
         public void Dispose()

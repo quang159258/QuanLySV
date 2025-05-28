@@ -88,7 +88,7 @@
             Controls.Add(label2);
             Controls.Add(label1);
             Name = "LoginPage";
-            Text = "Dang Nhap";
+            Text = "Đăng nhập";
             Load += LoginPage_Load;
             ResumeLayout(false);
             PerformLayout();

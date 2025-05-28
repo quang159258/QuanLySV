@@ -119,3 +119,4 @@ E:\WorkSpace\QuanLySV\bin\Debug\net8.0-windows\Microsoft.Net.Http.Headers.dll
 E:\WorkSpace\QuanLySV\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
 E:\WorkSpace\QuanLySV\bin\Debug\net8.0-windows\System.Security.Cryptography.Xml.dll
 E:\WorkSpace\QuanLySV\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\WorkSpace\QuanLySV\obj\Debug\net8.0-windows\QuanLySV.Views.PhanQuyenPage.resources

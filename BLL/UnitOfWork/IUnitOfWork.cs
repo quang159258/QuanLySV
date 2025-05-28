@@ -6,6 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using BLL.Repositories;
 using DAL.Models;
+using Microsoft.EntityFrameworkCore.Storage;
 namespace BLL.UnitOfWork
 {
     public interface IUnitOfWork
@@ -23,5 +24,9 @@ namespace BLL.UnitOfWork
         VaiTroRepository VaiTros { get;  }
         YeuCauRepository YeuCaus { get;  }
         Task<int> Complete();
+        Task<IDbContextTransaction> BeginTransactionAsync();
+        Task CommitAsync();
+        Task RollbackAsync();
+
     }
 }

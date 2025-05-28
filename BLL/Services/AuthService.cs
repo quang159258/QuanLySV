@@ -61,7 +61,11 @@ namespace BLL.Services
         }
         public bool HasPermission(GiaoVien gv, string permissionName)
         {
-            return gv.VaiTro?.Quyens?.Any(q => q.Name == permissionName) == true;
+            return gv.VaiTro?.Quyens?.Any(q => q.TenQuyen== permissionName) == true;
+        }
+        public bool IsInRole(GiaoVien gv, string roleName)
+        {
+            return gv.VaiTro.TenVaiTro==roleName;
         }
     }
 }
