@@ -1,0 +1,10 @@
+H:\HK6\PTTK\QuanLySV\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+H:\HK6\PTTK\QuanLySV\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+H:\HK6\PTTK\QuanLySV\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+H:\HK6\PTTK\QuanLySV\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+H:\HK6\PTTK\QuanLySV\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+H:\HK6\PTTK\QuanLySV\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+H:\HK6\PTTK\QuanLySV\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+H:\HK6\PTTK\QuanLySV\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+H:\HK6\PTTK\QuanLySV\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+H:\HK6\PTTK\QuanLySV\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

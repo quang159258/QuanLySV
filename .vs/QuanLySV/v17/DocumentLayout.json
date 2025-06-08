@@ -1,42 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\WorkSpace\\QuanLySV\\",
+  "WorkspaceRootPath": "H:\\HK6\\PTTK\\QuanLySV\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{437FB4AC-E2F1-4BDF-9F19-EC24D67CD55C}|BLL\\BLL.csproj|e:\\workspace\\quanlysv\\bll\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{437FB4AC-E2F1-4BDF-9F19-EC24D67CD55C}|BLL\\BLL.csproj|solutionrelative:bll\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\HK6\\PTTK\\QuanLySV\\BLL\\UnitOfWork\\UnitOfWork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BLL\\UnitOfWork\\UnitOfWork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{437FB4AC-E2F1-4BDF-9F19-EC24D67CD55C}|BLL\\BLL.csproj|e:\\workspace\\quanlysv\\bll\\services\\vaitroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{437FB4AC-E2F1-4BDF-9F19-EC24D67CD55C}|BLL\\BLL.csproj|solutionrelative:bll\\services\\vaitroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\HK6\\PTTK\\QuanLySV\\BLL\\Services\\VaiTroService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BLL\\Services\\VaiTroService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75AB7E4F-FEA3-4586-A288-6E2F7C98B97F}|QuanLySV.csproj|e:\\workspace\\quanlysv\\views\\phanquyenpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{75AB7E4F-FEA3-4586-A288-6E2F7C98B97F}|QuanLySV.csproj|solutionrelative:views\\phanquyenpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\HK6\\PTTK\\QuanLySV\\Views\\PhanQuyenPage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\PhanQuyenPage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75AB7E4F-FEA3-4586-A288-6E2F7C98B97F}|QuanLySV.csproj|e:\\workspace\\quanlysv\\views\\phanquyenpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75AB7E4F-FEA3-4586-A288-6E2F7C98B97F}|QuanLySV.csproj|solutionrelative:views\\phanquyenpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\HK6\\PTTK\\QuanLySV\\views\\phanquyenpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:views\\phanquyenpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{437FB4AC-E2F1-4BDF-9F19-EC24D67CD55C}|BLL\\BLL.csproj|e:\\workspace\\quanlysv\\bll\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{437FB4AC-E2F1-4BDF-9F19-EC24D67CD55C}|BLL\\BLL.csproj|solutionrelative:bll\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\HK6\\PTTK\\QuanLySV\\BLL\\Services\\AuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BLL\\Services\\AuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75AB7E4F-FEA3-4586-A288-6E2F7C98B97F}|QuanLySV.csproj|e:\\workspace\\quanlysv\\views\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75AB7E4F-FEA3-4586-A288-6E2F7C98B97F}|QuanLySV.csproj|solutionrelative:views\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\HK6\\PTTK\\QuanLySV\\Views\\LoginPage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\LoginPage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75AB7E4F-FEA3-4586-A288-6E2F7C98B97F}|QuanLySV.csproj|e:\\workspace\\quanlysv\\views\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{75AB7E4F-FEA3-4586-A288-6E2F7C98B97F}|QuanLySV.csproj|solutionrelative:views\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\HK6\\PTTK\\QuanLySV\\Views\\HomePage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\HomePage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75AB7E4F-FEA3-4586-A288-6E2F7C98B97F}|QuanLySV.csproj|e:\\workspace\\quanlysv\\views\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75AB7E4F-FEA3-4586-A288-6E2F7C98B97F}|QuanLySV.csproj|solutionrelative:views\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\HK6\\PTTK\\QuanLySV\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75AB7E4F-FEA3-4586-A288-6E2F7C98B97F}|QuanLySV.csproj|e:\\workspace\\quanlysv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75AB7E4F-FEA3-4586-A288-6E2F7C98B97F}|QuanLySV.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\HK6\\PTTK\\QuanLySV\\views\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:views\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -64,9 +64,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "E:\\WorkSpace\\QuanLySV\\BLL\\UnitOfWork\\UnitOfWork.cs",
+              "DocumentMoniker": "H:\\HK6\\PTTK\\QuanLySV\\BLL\\UnitOfWork\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "BLL\\UnitOfWork\\UnitOfWork.cs",
-              "ToolTip": "E:\\WorkSpace\\QuanLySV\\BLL\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "H:\\HK6\\PTTK\\QuanLySV\\BLL\\UnitOfWork\\UnitOfWork.cs",
               "RelativeToolTip": "BLL\\UnitOfWork\\UnitOfWork.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAIwDoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -77,22 +77,21 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "VaiTroService.cs",
-              "DocumentMoniker": "E:\\WorkSpace\\QuanLySV\\BLL\\Services\\VaiTroService.cs",
+              "DocumentMoniker": "H:\\HK6\\PTTK\\QuanLySV\\BLL\\Services\\VaiTroService.cs",
               "RelativeDocumentMoniker": "BLL\\Services\\VaiTroService.cs",
-              "ToolTip": "E:\\WorkSpace\\QuanLySV\\BLL\\Services\\VaiTroService.cs",
+              "ToolTip": "H:\\HK6\\PTTK\\QuanLySV\\BLL\\Services\\VaiTroService.cs",
               "RelativeToolTip": "BLL\\Services\\VaiTroService.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAiwB4AAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T00:59:06.945Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-28T00:59:06.945Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "PhanQuyenPage.cs",
-              "DocumentMoniker": "E:\\WorkSpace\\QuanLySV\\Views\\PhanQuyenPage.cs",
+              "DocumentMoniker": "H:\\HK6\\PTTK\\QuanLySV\\Views\\PhanQuyenPage.cs",
               "RelativeDocumentMoniker": "Views\\PhanQuyenPage.cs",
-              "ToolTip": "E:\\WorkSpace\\QuanLySV\\Views\\PhanQuyenPage.cs",
+              "ToolTip": "H:\\HK6\\PTTK\\QuanLySV\\Views\\PhanQuyenPage.cs",
               "RelativeToolTip": "Views\\PhanQuyenPage.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAEwB4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -101,49 +100,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "PhanQuyenPage.cs [Design]",
-              "DocumentMoniker": "E:\\WorkSpace\\QuanLySV\\Views\\PhanQuyenPage.cs",
+              "DocumentMoniker": "H:\\HK6\\PTTK\\QuanLySV\\Views\\PhanQuyenPage.cs",
               "RelativeDocumentMoniker": "Views\\PhanQuyenPage.cs",
               "ToolTip": "E:\\WorkSpace\\QuanLySV\\Views\\PhanQuyenPage.cs [Design]",
-              "RelativeToolTip": "Views\\PhanQuyenPage.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T00:48:52.866Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-28T00:48:52.866Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "AuthService.cs",
-              "DocumentMoniker": "E:\\WorkSpace\\QuanLySV\\BLL\\Services\\AuthService.cs",
+              "DocumentMoniker": "H:\\HK6\\PTTK\\QuanLySV\\BLL\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "BLL\\Services\\AuthService.cs",
-              "ToolTip": "E:\\WorkSpace\\QuanLySV\\BLL\\Services\\AuthService.cs",
+              "ToolTip": "H:\\HK6\\PTTK\\QuanLySV\\BLL\\Services\\AuthService.cs",
               "RelativeToolTip": "BLL\\Services\\AuthService.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T00:38:35.592Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LoginPage.cs",
-              "DocumentMoniker": "E:\\WorkSpace\\QuanLySV\\Views\\LoginPage.cs",
-              "RelativeDocumentMoniker": "Views\\LoginPage.cs",
-              "ToolTip": "E:\\WorkSpace\\QuanLySV\\Views\\LoginPage.cs",
-              "RelativeToolTip": "Views\\LoginPage.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAApwDQAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T00:34:58.41Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-28T00:38:35.592Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "H:\\HK6\\PTTK\\QuanLySV\\Views\\LoginPage.cs",
+              "RelativeDocumentMoniker": "Views\\LoginPage.cs",
+              "ToolTip": "H:\\HK6\\PTTK\\QuanLySV\\Views\\LoginPage.cs",
+              "RelativeToolTip": "Views\\LoginPage.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAApwDQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T00:34:58.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "HomePage.cs",
-              "DocumentMoniker": "E:\\WorkSpace\\QuanLySV\\Views\\HomePage.cs",
+              "DocumentMoniker": "H:\\HK6\\PTTK\\QuanLySV\\Views\\HomePage.cs",
               "RelativeDocumentMoniker": "Views\\HomePage.cs",
-              "ToolTip": "E:\\WorkSpace\\QuanLySV\\Views\\HomePage.cs",
+              "ToolTip": "H:\\HK6\\PTTK\\QuanLySV\\Views\\HomePage.cs",
               "RelativeToolTip": "Views\\HomePage.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAEwBoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -152,28 +147,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\WorkSpace\\QuanLySV\\Program.cs",
+              "DocumentMoniker": "H:\\HK6\\PTTK\\QuanLySV\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\WorkSpace\\QuanLySV\\Program.cs",
+              "ToolTip": "H:\\HK6\\PTTK\\QuanLySV\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAQwC0AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T00:34:08.284Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-28T00:34:08.284Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "HomePage.cs [Design]",
-              "DocumentMoniker": "E:\\WorkSpace\\QuanLySV\\Views\\HomePage.cs",
+              "DocumentMoniker": "H:\\HK6\\PTTK\\QuanLySV\\Views\\HomePage.cs",
               "RelativeDocumentMoniker": "Views\\HomePage.cs",
               "ToolTip": "E:\\WorkSpace\\QuanLySV\\Views\\HomePage.cs [Design]",
-              "RelativeToolTip": "Views\\HomePage.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T00:32:42.943Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-28T00:32:42.943Z"
             }
           ]
         }
