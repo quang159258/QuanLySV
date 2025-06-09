@@ -5205,23 +5205,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin.NGUYENTRANQUANG\\.nuget\\packages\\": {},
+    "C:\\Users\\hoant\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\WorkSpace\\QuanLySV\\QuanLySV.csproj",
+      "projectUniqueName": "D:\\LapTrinhDaiHoc\\HK6\\PTTKHT\\QuanLySV\\QuanLySV.csproj",
       "projectName": "QuanLySV",
-      "projectPath": "E:\\WorkSpace\\QuanLySV\\QuanLySV.csproj",
-      "packagesPath": "C:\\Users\\Admin.NGUYENTRANQUANG\\.nuget\\packages\\",
-      "outputPath": "E:\\WorkSpace\\QuanLySV\\obj\\",
+      "projectPath": "D:\\LapTrinhDaiHoc\\HK6\\PTTKHT\\QuanLySV\\QuanLySV.csproj",
+      "packagesPath": "C:\\Users\\hoant\\.nuget\\packages\\",
+      "outputPath": "D:\\LapTrinhDaiHoc\\HK6\\PTTKHT\\QuanLySV\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Admin.NGUYENTRANQUANG\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\hoant\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -5237,11 +5237,11 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "E:\\WorkSpace\\QuanLySV\\BLL\\BLL.csproj": {
-              "projectPath": "E:\\WorkSpace\\QuanLySV\\BLL\\BLL.csproj"
+            "D:\\LapTrinhDaiHoc\\HK6\\PTTKHT\\QuanLySV\\BLL\\BLL.csproj": {
+              "projectPath": "D:\\LapTrinhDaiHoc\\HK6\\PTTKHT\\QuanLySV\\BLL\\BLL.csproj"
             },
-            "E:\\WorkSpace\\QuanLySV\\DAL\\DAL.csproj": {
-              "projectPath": "E:\\WorkSpace\\QuanLySV\\DAL\\DAL.csproj"
+            "D:\\LapTrinhDaiHoc\\HK6\\PTTKHT\\QuanLySV\\DAL\\DAL.csproj": {
+              "projectPath": "D:\\LapTrinhDaiHoc\\HK6\\PTTKHT\\QuanLySV\\DAL\\DAL.csproj"
             }
           }
         }
@@ -5256,7 +5256,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0-windows7.0": {
@@ -5294,7 +5294,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
